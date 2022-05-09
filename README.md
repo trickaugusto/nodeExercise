@@ -1,4 +1,4 @@
-# Best me App, um projetinho de vídeo aula da rocketseat
+# Best me App, um projetinho em nodeJS da rocketseat
 
 Encontre sua melhor versão!
 Use o App ao final do dia para refletir sobre sua jornada.
